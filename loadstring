@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/delzq/impactrbx/raw/refs/heads/main/initialize"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/initialize"))()
