@@ -1,7 +1,7 @@
 
 local bwz = 6079884123
-local game = game.GameId
-if game == bwz then
+local gameid = game.GameId
+if gameid == bwz then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bedwarz"))()
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/skywars"))()
