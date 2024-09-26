@@ -2,7 +2,7 @@
 local bwz = 6079884123
 local gameid = game.GameId
 if gameid == bwz then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bedwarz"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bedwarz.txt"))()
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/skywars"))()
 end
