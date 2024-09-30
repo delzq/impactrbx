@@ -1,3 +1,4 @@
+local cc = false
 if cc == true then 
     print("cc enabled")
 else
