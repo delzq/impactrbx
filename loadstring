@@ -1,1 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/initialization"))()
+local cc = false -- change to true to enabled closet cheating mode.
+
+if cc == true then 
+    print("cc enabled")
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/initialization"))()
+end
