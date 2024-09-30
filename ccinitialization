@@ -1,0 +1,11 @@
+local bd = 4124008017
+local bwz = 6079884123
+local gameid = game.GameId
+
+if gameid == bwz then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bedwarz.txt"))()
+elseif gameid == bd then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bridgeduels"))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/skywars"))()
+end
