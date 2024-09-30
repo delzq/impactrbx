@@ -1,4 +1,4 @@
-local cc = false -- change to true to enabled closet cheating mode.
+-- test, local cc = false -- change to true to enabled closet cheating mode.
 
 if cc == true then 
     print("cc enabled")
