@@ -1,4 +1,4 @@
-local cc = false
+local cc = false -- change to true to enable cc mode
 if cc == true then 
     print("cc enabled")
 else
