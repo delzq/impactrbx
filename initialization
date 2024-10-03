@@ -7,8 +7,7 @@ if gameid == bwz then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bedwarz"))()
 elseif gameid == bd then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bridgeduels"))()
-elseif
-if gameid == bw then
+elseif gameid == bw then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/bedwars"))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/delzq/impactrbx/refs/heads/main/games/skywars"))()
